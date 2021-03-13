@@ -7,7 +7,7 @@
 </h1>
 
 <h1 style="font-family: roboto" align='center'>
-  <img style="height: 300px;" src='./src/assets/gifGeradorDeSenhas.gif'></img>
+  <img src='./src/assets/gifGeradorDeSenhas.gif' height=425></img>
 </h1>
 
 
