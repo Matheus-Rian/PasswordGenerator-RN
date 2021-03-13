@@ -1,13 +1,13 @@
-<h1 style="font-family: roboto;" align='center'>Password Generator</h1>
+<h1 style="font-family: roboto;" align='center'>Password Generator 🔐</h1>
 
 <h1 style="font-family: roboto;" align='center'>
-  <img src='https://img.shields.io/static/v1?label=status&message=Development&color=ffd700&style=for-the-badge&logo=ionic'></img>
-  <img src='https://img.shields.io/static/v1?label=MovieMove&message=1.0v&color=4169E1&style=for-the-badge&logo=mega'></img>
+  <img src='https://img.shields.io/static/v1?label=status&message=Development&color=ffd700&style=for-the-badge&logo=react'></img>
+  <img src='https://img.shields.io/static/v1?label=PasswordGenerator&message=1.0v&color=4169E1&style=for-the-badge&logo=mega'></img>
   <img src='https://img.shields.io/static/v1?label=Prox&message=1.1v&color=2E8B57&style=for-the-badge&logo=mega'></img>
 </h1>
 
-<h1 style="font-family: roboto;" align='center'>
-  <img src='./src/assets/gifGeradorDeSenhas.gif'></img>
+<h1 style="font-family: roboto" align='center'>
+  <img style="height: 300px;" src='./src/assets/gifGeradorDeSenhas.gif'></img>
 </h1>
 
 
@@ -26,42 +26,30 @@ In addition, it is good to have an editor to work with the code as [VSCode](http
 ```bash
 
 # Clone the project:
-$ git clone https://github.com/Matheus-Rian/MovieMove-Ionic.git
+$ git clone https://github.com/Matheus-Rian/PasswordGenerator-RN.git
 
 # Enter the directory:
-$ cd MovieMove-Ionic
+$ cd PasswordGenerator-RN
   
 # Installing dependencies:
-$ npm i
+$ yarn
 
 # Running the application in development mode:
-$ ionic serve
+$ expo start
 ``` 
 
 ### 🏁 Features 
 
 - [X] Interface
-- [x] API integration
-- [x] Search Movies
-- [ ] Lazy Loading
-- [ ] Componentized
-
-#### :construction: More features coming soon ...
-
+- [x] Generate Password random
+- [x] Clipboard
 ### ⚒️ Technology
 
 The following tools were used in the construction of the project:
 
-- [Ionic](https://ionicframework.com/)
-- [Angular](https://angular.io/)
-- [TypeScript](https://www.typescriptlang.org/)
-
-### :muscle: Contributions
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/Eduardo-Vieira"><img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/13556212?s=400&u=57b80ae71a6c8fcda75c78ffdd7b054b6b0b5535&v=4" width="100px;" alt=""/><br /><sub><b>Eduardo Vieira</b></sub></a><br /><a href="https://github.com/Eduardo-Vieira" title="EduardoVieira">👨‍🚀</a></td>
-  </tr>
-</table>
+- [Expo](https://expo.io/)
+- [React Native](https://reactnative.dev/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ---
 ### :trident: Author 
